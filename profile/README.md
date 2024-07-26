@@ -3,8 +3,10 @@
         <a href="https://esamda.github.io/"><img src="https://avatars.githubusercontent.com/u/176549595?s=200&v=4" /></a>
     </p>
     <p>
-    <a href="https://maps.app.goo.gl/fq3WnDAqgTYMaoKb7">SMP Negeri 2 Sambit</a>
-</p>
+        <h3><a href="https://maps.app.goo.gl/fq3WnDAqgTYMaoKb7">SMP Negeri 2 Sambit</a></h3>
+    </p>
+</div>
+
 
 ## Visi
 
